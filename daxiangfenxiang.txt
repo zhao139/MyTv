@@ -345,6 +345,7 @@ NewTV精品大剧,http://192.168.5.3:50001/TVOD/2000000003000000020/hnbblive/ind
 NewTV精品大剧,http://192.168.5.3:50001/TVOD/1000000004000013968/ystenlive/index.m3u8$4M1080_易视腾
 NewTV精品纪录,http://192.168.5.3:50001/TVOD/1000000004000013730/ystenlive/index.m3u8$4M1080_易视腾
 NewTV精品记录,http://192.168.5.3:50001/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV精品萌宠,http://192.168.5.3:50001/TVOD/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
 NewTV精品萌宠,http://192.168.5.3:50001/TVOD/1000000006000032328/ystenlive/index.m3u8$4M1080_易视腾
 NewTV精品体育,http://192.168.5.3:50001/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
 NewTV精品体育,http://192.168.5.3:50001/TVOD/1000000004000014634/ystenlive/index.m3u8$4M1080_易视腾
