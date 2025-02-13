@@ -353,7 +353,9 @@ NewTV超级综艺,http://192.168.5.3:50101/TVOD/1000000006000268002/ystenlive/in
 NewTV超级综艺,http://192.168.5.3:50101/TVOD/1000000001000025771/ystenlive/index.m3u8$4M1080_易视腾
 NewTV超级综艺,http://192.168.5.3:50101/TVOD/1000000004000023658/ystenlive/index.m3u8$4M1080_易视腾
 NewTV超级综艺,http://192.168.5.3:50101/TVOD/2000000003000000029/hnbblive/index.m3u8$4M1080_湖南bblive
+NewTV潮妈辣婆,http://192.168.5.3:50001/TVOD/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
 NewTV东北剧场,http://192.168.5.3:50101/TVOD/1000000005000266013/ystenlive/index.m3u8$4M1080_易视腾
+NewTV东北热剧,http://192.168.5.3:50001/TVOD/2000000003000000051/hnbblive/index.m3u8$4M1080_湖南bblive
 NewTV动作电影,http://192.168.5.3:50101/TVOD/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
 NewTV动作电影,http://192.168.5.3:50101/TVOD/1000000004000018653/ystenlive/index.m3u8$4M1080_易视腾
 NewTV古装剧场,http://192.168.5.3:50101/TVOD/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
