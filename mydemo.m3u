@@ -33,6 +33,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="💞央视频道",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="📡卫视频道",湖南·金鹰卡通卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="📡卫视频道",江苏·优漫卡通卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="📡卫视频道",北京·卡酷少儿卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",东方卫视
@@ -107,12 +113,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",新疆·兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-#EXTINF:-1 group-title="📡卫视频道",湖南·金鹰卡通卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 group-title="📡卫视频道",江苏·优漫卡通卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="📡卫视频道",北京·卡酷少儿卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="央视频道①",CCTV-1综合
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="央视频道①",CCTV-2财经
